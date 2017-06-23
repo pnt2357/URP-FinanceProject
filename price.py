@@ -4,7 +4,6 @@
 
 from pandas_datareader import data
 
-
 stock_code = 'AMZN'
 Data_source = 'google'
 start_date ="2015/01/01"
